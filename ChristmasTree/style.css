@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background: #1AB3D2;
+}
+@font-face{
+    font-family: "ICE";
+    src: url("kr-kinda-flakey.regular.ttf")
+}
